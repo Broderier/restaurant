@@ -8,26 +8,26 @@
 
 ### 使用環境
 
-使用前需安裝 node.js 及 npm 
+需安裝 node.js 及 npm 
 
 ### 安裝
 
-A step by step series of examples that tell you how to get a development env running
+1. 開啟終端機(Terminal)，Clone 此專案至本機電腦
+git clone https://github.com/Broderier/restaurant.git
 
-Say what the step will be
+2. 進入專案的資料夾
+cd restaurant_list
 
-```
-Give the example
-```
+3.安裝 npm 套件
+npm install
 
-And repeat
+4.安裝 nodemon 套件
 
-```
-until finished
-```
+5.執行程式
+nodemon app.js
 
-End with an example of getting some data out of the system or using it for a little demo
-
+6.當 terminal 出現以下字樣，表示伺服器與資料庫已啟動並成功連結
+Express is listening on localhost:3000
 
 ## 開發工具
 
