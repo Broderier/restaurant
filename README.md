@@ -13,20 +13,16 @@
 ### 安裝
 
 1. 開啟終端機(Terminal)，Clone 此專案至本機電腦
-git clone https://github.com/Broderier/restaurant.git
 
 2. 進入專案的資料夾
-cd restaurant_list
 
-3.安裝 npm 套件
-npm install
+3. 安裝 npm 套件
 
-4.安裝 nodemon 套件
+4. 安裝 nodemon 套件
 
-5.執行程式
-nodemon app.js
+5. 執行程式
 
-6.當 terminal 出現以下字樣，表示伺服器與資料庫已啟動並成功連結
+6. 當terminal 出現以下字樣，表示伺服器與資料庫已啟動並成功連結
 Express is listening on localhost:3000
 
 ## 開發工具
